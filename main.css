@@ -1,0 +1,129 @@
+html, body {
+height: 100vh;
+}
+
+.kr-kolonna {
+background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+}
+
+.lb-kolonna {
+background: #E5E5E5;
+}
+
+.sveiciens {
+    width: 361px;
+    height: 140px;
+    margin: 0 auto;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    }
+
+.group1 {
+margin: 0 auto;
+margin-top: 10vh;
+width: 449px;
+height: 256px;
+text-align: center;
+}
+
+.group3 {
+margin: 0 auto;
+margin-top: 10vh;
+width: 449px;
+height: 256px;
+text-align: center;
+}
+
+.linija {
+/* Line 2 */
+width: 248px;
+height: 0px;
+margin: 20px auto;
+/* primary/white */
+border: 1px solid #FFFFFF;
+}
+
+.paskaidrojums {
+/* Tavas laboratorijas uzskaites sistēma */
+/* width: 449px; */
+/* height: 56px; */
+/* header/h5 */
+margin: 0 auto;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+/* identical to box height */
+/* primary/white */
+color: #FFFFFF;  
+text-align: center;
+}
+
+.kimija {
+margin: 0 auto;
+margin-top: 10vh;
+display: block;
+}
+
+.kaste {
+display: block;
+}
+
+.pa-kreisi {
+text-align: left;
+}
+
+.zils {
+    color: #0084F8;
+}
+
+.peleks {
+    color: #52616B;
+}
+
+.poga1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    color: #FFFFFF;
+    background: #0084F8;
+}
+
+.poga2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    color: #0084F8;
+    background: #E5E5E5;
+    border: 1px solid #0084F8;
+}
+
+.poga3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    color: #FFFFFF;
+    background: #FF8576;
+    border: 1px solid #FF8576;
+    position: absolute;
+    bottom: 2vh;
+    right: 2vw;
+}
